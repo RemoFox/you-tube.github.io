@@ -356,5 +356,9 @@ height: 20%;
 .navbar.i{
     display: inline;
     z-index: 3;position: fixed;
+    width:45%
   }
+  nav p{
+    font-size: 1.2rem;}
+
 }
